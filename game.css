@@ -1,0 +1,108 @@
+body{
+    background: linear-gradient(
+        90deg,
+        rgb(213, 214, 150),
+        rgb(100, 7, 109)
+    ) ;
+}
+h1{
+ color: aqua;
+ background-color: gray;
+ 
+ padding-bottom: 20px;
+ padding-top: 20px;
+ margin-left: 30%;
+ margin-right: 30%;
+ 
+ text-align: center;
+ margin-top: -7.7px;
+}
+h2{
+    color: crimson;
+    background-color: gray;
+ 
+ padding-bottom: 20px;
+ padding-top: 20px;
+ margin-left: 30%;
+ margin-right: 30%;
+
+ text-align: center;
+ margin-top: -40px;
+}
+h3{
+ margin-left: 630px;
+ color: crimson;
+
+ 
+ padding-bottom: 10px;
+ padding-top: 10px;
+ margin-left: 31%;
+ margin-right: 30%;
+
+ text-align: center;
+ margin-top: 20px;
+ font-size: 50px;
+
+
+}
+h4{
+    margin-left: 610px;
+    color: crimson;
+   
+    
+   
+   
+    
+    
+   
+    
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+#robot {
+	transition: transform 0.3s;
+}
+.pap{
+    border-radius: 20px;
+    font-size: 30px;
+    background-color: deeppink;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.pap:hover{
+    transform:scale(1.7);
+}
+
+.button{
+    margin-left: 190px;
+    margin-top: -90px;
+}
+#robot{
+    font-size: 50px;
+    margin-left: 49%;
+    margin-top: -199px;
+}
+.score1{
+    background-color: greenyellow;
+    font-size: 30px;
+    margin-right: 500px;
+    margin-left: 500px;
+   text-align: center;
+   height: 80px;
+}
+.num{
+    margin-top: -20px;
+}
+.score2{
+    background-color: greenyellow;
+    font-size: 30px;
+    margin-right: 500px;
+    margin-left: 500px;
+   text-align: center;
+   height: 80px;
+}
+#myp{
+font-size: 200px;
+}
+
